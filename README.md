@@ -23,7 +23,7 @@ A Laravel-based platform for physical therapists to collect and analyze patient 
 
 ```bash
 # Clone repository
-git clone https://github.com/abdes96/Patient-Counseling.git](https://github.com/abdes96/laravel-app.git
+git clone https://github.com/abdes96/laravel-app.git
 
 # Install dependencies
 composer install
