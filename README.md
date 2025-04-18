@@ -2,7 +2,6 @@
 
 A Laravel-based platform for physical therapists to collect and analyze patient feedback after sessions.
 
-![App Screenshot](screenshots/dashboard.png) <!-- Add real screenshot path -->
 
 ## Features
 - ✅ Create public/private questionnaires with single-use links
@@ -24,8 +23,7 @@ A Laravel-based platform for physical therapists to collect and analyze patient 
 
 ```bash
 # Clone repository
-git clone https://github.com/abdes96/Patient-Counseling.git
-cd Patient-Counseling
+git clone https://github.com/abdes96/Patient-Counseling.git](https://github.com/abdes96/laravel-app.git
 
 # Install dependencies
 composer install
